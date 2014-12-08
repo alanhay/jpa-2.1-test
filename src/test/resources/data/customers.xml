@@ -1,0 +1,4 @@
+<dataset>
+	<customers id="1" forename="John" surname="Smith"/>
+	<customers id="2" forename="James" surname="Jones"/>
+</dataset>
